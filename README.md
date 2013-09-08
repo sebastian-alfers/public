@@ -1,2 +1,2 @@
-public
+Sebastian Alfers - Entwickler
 ======
